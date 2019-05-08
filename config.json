@@ -2,7 +2,7 @@
   "db": {
     "host": "127.0.0.1",
     "name": "cwp32",
-    "user": "emitan",
-    "password": "emitan"
+    "user": "root",
+    "password": "2775937"
   }
 }
